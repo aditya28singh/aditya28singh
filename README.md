@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
-<h3 align="center">A data - Driven Solution Enthusiast</h3>
+<h3 align="center">A Data - Driven Solution Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://static-00.iconduck.com/assets.00/web-developer-illustration-1004x1024-wcqgbag3.png"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya28singh&label=Profile%20views&color=0e75b6&style=flat" alt="aditya28singh" /> </p>
